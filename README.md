@@ -6,4 +6,5 @@
 
 ## Hey! 👋,           
 Me chamo Isabella, sou estudante de Ciência da Computação na Universidade Federal de Viçosa - Campus Florestal que ama tecnologia e aprender coisas novas :orange_heart::books:
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellazramos&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazramos&theme=dracula)
