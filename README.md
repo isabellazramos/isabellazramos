@@ -9,4 +9,4 @@ Me chamo Isabella, sou estudante de Ciência da Computação na Universidade Fed
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellazramos&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazramos&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazramos&layout=compact&theme=dracula)
