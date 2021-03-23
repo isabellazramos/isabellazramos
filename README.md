@@ -13,4 +13,4 @@ Me chamo Isabella, sou estudante de Ciência da Computação na Universidade Fed
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-theta-puce.vercel.app/api/spotify)](https://open.spotify.com/user/sdggwnwf4n4hbo41itn4ry6k6)
+[![Spotify](https://sdggwnwf4n4hbo41itn4ry6k6.vercel.app/api/spotify)](https://open.spotify.com/user/sdggwnwf4n4hbo41itn4ry6k6)
