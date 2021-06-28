@@ -1,6 +1,6 @@
 # Isabella Ramos :woman_technologist:
 [![Outlook Badge](https://img.shields.io/badge/-Email-3871c1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabellamenezesramos@outlook.com)](mailto:isabellamenezesramos@outlook.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabella-ramos-550319153/)](https://www.linkedin.com/in/isabella-ramos-550319153/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabella-ramos-550319153/)](https://www.linkedin.com/in/isabella-menezes/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/isabellazramos)](https://t.me/isabellazramos)
 
 
