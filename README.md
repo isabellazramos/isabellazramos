@@ -16,7 +16,6 @@
 <a href="https://dev.to/isabellazramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="isabellazramos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/isabella-menezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isabella-menezes" height="30" width="40" /></a>
 <a href="https://kaggle.com/isabellazramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="isabellazramos" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/isabellazramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="isabellazramos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
