@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 **Data Engineer Intern**
 
-- 🌱 I’m currently learning **Flask, web scraping and speech recognition models**
+- 🌱 I’m currently learning **Spark**
 
 - 👯 I’m looking to collaborate on **open source data projects**
 
