@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isa</h1>
 <h3 align="center">Computer Science graduate who loves technology and is venturing into the world of data</h3>
 
-- 👩🏻‍💻 **Data Engineer Intern**
+- 👩🏻‍💻 **Data Engineer**
 
-- 🌱 I’m currently learning **Spark**
+- 🌱 I’m currently learning NLP
 
 - 👯 I’m looking to collaborate on **open source data projects**
 
