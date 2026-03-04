@@ -37,24 +37,14 @@ Data Engineer specializing in **scalable pipelines**, **cloud architectures**, a
 
 ---
 
-## 🚀 Highlights
-
-- 🏭 **dbt Architecture**: 70% reduction in processing time
-- 💰 **BigQuery Optimization**: 60% cost reduction (R$ 15k/month savings)
-- 🔄 **Airflow Pipelines**: 99.9% uptime with multi-API orchestration
-- ⚡ **Spark Processing**: 75% performance improvement on 500GB+ daily data
-
-🔗 [**View full portfolio**](https://isabellazramos.github.io)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isabellazramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</div>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=isabellazramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazramos&layout=compact&langs_count=6&theme=tokyonight"/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazramos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
