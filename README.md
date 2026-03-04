@@ -1,26 +1,68 @@
-<h1 align="center">Hi 👋, I'm Isa</h1>
-<h3 align="center">Computer Science graduate who loves technology and is venturing into the world of data</h3>
+<div align="center">
 
-- 👩🏻‍💻 **Data Engineer**
+# Hi 👋, I'm Isabella Ramos
 
-- 🌱 I’m currently learning NLP
+**Data Engineer** | Transforming data into strategic insights
 
-- 👯 I’m looking to collaborate on **open source data projects**
+[![Portfolio](https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=react&logoColor=white)](https://isabellazramos.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isabella-ramos-03a5a2207)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellamenezesramos@outlook.com)
 
-- 📫 How to reach me **isabellamenezesramos@outlook.com**
+</div>
 
-- ⚡ Fun fact: **I love horror movies 👻**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/isabellazramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="isabellazramos" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isabella-menezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isabella-menezes" height="30" width="40" /></a>
-<a href="https://kaggle.com/isabellazramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="isabellazramos" height="30" width="40" /></a>
-</p>
+## 💼 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Data Engineer specializing in **scalable pipelines**, **cloud architectures**, and **data transformation at scale**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabellazramos&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="isabellazramos" /></p>
+- 🛠️ Working with **dbt, Apache Airflow, BigQuery, PySpark**
+- ☁️ Proficient in **GCP** and **data orchestration**
+- 🐛 Passionate about **data quality** and **automation**
+- 🎯 Open to **data engineering collaborations**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isabellazramos&show_icons=true&theme=tokyonight&locale=en" alt="isabellazramos" /></p>
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google-bigquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🚀 Highlights
+
+- 🏭 **dbt Architecture**: 70% reduction in processing time
+- 💰 **BigQuery Optimization**: 60% cost reduction (R$ 15k/month savings)
+- 🔄 **Airflow Pipelines**: 99.9% uptime with multi-API orchestration
+- ⚡ **Spark Processing**: 75% performance improvement on 500GB+ daily data
+
+🔗 [**View full portfolio**](https://isabellazramos.github.io)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=isabellazramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazramos&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**📧 Let's connect:** [isabellamenezesramos@outlook.com](mailto:isabellamenezesramos@outlook.com)
+
+*"Data is the new oil, but only if it's refined properly."*
+
+</div>
