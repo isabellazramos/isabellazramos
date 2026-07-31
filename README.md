@@ -11,7 +11,7 @@
 💫 Data Engineer specializing in **scalable pipelines**, **cloud architectures**, and **data transformation at scale**. <br>
 🔭 I’m currently working on project to gather and analyze public data on women in Brazil<br>
 🤝 I’m looking for help with open source projects<br>
-🌱 I’m currently learning Spark and AWS<br>
+🌱 I’m currently learning Databricks<br>
 ⚡ Fun fact: I love horror movies and political podcasts
 
 # 💻 Tech Stack:
